@@ -1,0 +1,37 @@
+C:\Users\sakth\source\repos\Project Tasks\Project Tasks\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sakth\source\repos\Project Tasks\Project Tasks\bin\Debug\net8.0\appsettings.json
+C:\Users\sakth\source\repos\Project Tasks\Project Tasks\bin\Debug\net8.0\Project Tasks.staticwebassets.endpoints.json
+C:\Users\sakth\source\repos\Project Tasks\Project Tasks\bin\Debug\net8.0\Project Tasks.exe
+C:\Users\sakth\source\repos\Project Tasks\Project Tasks\bin\Debug\net8.0\Project Tasks.deps.json
+C:\Users\sakth\source\repos\Project Tasks\Project Tasks\bin\Debug\net8.0\Project Tasks.runtimeconfig.json
+C:\Users\sakth\source\repos\Project Tasks\Project Tasks\bin\Debug\net8.0\Project Tasks.dll
+C:\Users\sakth\source\repos\Project Tasks\Project Tasks\bin\Debug\net8.0\Project Tasks.pdb
+C:\Users\sakth\source\repos\Project Tasks\Project Tasks\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\sakth\source\repos\Project Tasks\Project Tasks\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sakth\source\repos\Project Tasks\Project Tasks\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sakth\source\repos\Project Tasks\Project Tasks\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sakth\source\repos\Project Tasks\Project Tasks\obj\Debug\net8.0\Project Tasks.csproj.AssemblyReference.cache
+C:\Users\sakth\source\repos\Project Tasks\Project Tasks\obj\Debug\net8.0\Project Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sakth\source\repos\Project Tasks\Project Tasks\obj\Debug\net8.0\Project Tasks.AssemblyInfoInputs.cache
+C:\Users\sakth\source\repos\Project Tasks\Project Tasks\obj\Debug\net8.0\Project Tasks.AssemblyInfo.cs
+C:\Users\sakth\source\repos\Project Tasks\Project Tasks\obj\Debug\net8.0\Project Tasks.csproj.CoreCompileInputs.cache
+C:\Users\sakth\source\repos\Project Tasks\Project Tasks\obj\Debug\net8.0\Project Tasks.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sakth\source\repos\Project Tasks\Project Tasks\obj\Debug\net8.0\Project Tasks.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sakth\source\repos\Project Tasks\Project Tasks\obj\Debug\net8.0\scopedcss\bundle\Project Tasks.styles.css
+C:\Users\sakth\source\repos\Project Tasks\Project Tasks\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sakth\source\repos\Project Tasks\Project Tasks\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sakth\source\repos\Project Tasks\Project Tasks\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\sakth\source\repos\Project Tasks\Project Tasks\obj\Debug\net8.0\staticwebassets\msbuild.Project Tasks.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sakth\source\repos\Project Tasks\Project Tasks\obj\Debug\net8.0\staticwebassets\msbuild.Project Tasks.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\sakth\source\repos\Project Tasks\Project Tasks\obj\Debug\net8.0\staticwebassets\msbuild.build.Project Tasks.props
+C:\Users\sakth\source\repos\Project Tasks\Project Tasks\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Project Tasks.props
+C:\Users\sakth\source\repos\Project Tasks\Project Tasks\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Project Tasks.props
+C:\Users\sakth\source\repos\Project Tasks\Project Tasks\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sakth\source\repos\Project Tasks\Project Tasks\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\sakth\source\repos\Project Tasks\Project Tasks\obj\Debug\net8.0\Project .2CF563D7.Up2Date
+C:\Users\sakth\source\repos\Project Tasks\Project Tasks\obj\Debug\net8.0\Project Tasks.dll
+C:\Users\sakth\source\repos\Project Tasks\Project Tasks\obj\Debug\net8.0\refint\Project Tasks.dll
+C:\Users\sakth\source\repos\Project Tasks\Project Tasks\obj\Debug\net8.0\Project Tasks.pdb
+C:\Users\sakth\source\repos\Project Tasks\Project Tasks\obj\Debug\net8.0\Project Tasks.genruntimeconfig.cache
+C:\Users\sakth\source\repos\Project Tasks\Project Tasks\obj\Debug\net8.0\ref\Project Tasks.dll
+C:\Users\sakth\source\repos\Project Tasks\Project Tasks\bin\Debug\net8.0\Newtonsoft.Json.dll

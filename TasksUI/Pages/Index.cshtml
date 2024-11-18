@@ -1,0 +1,19 @@
+﻿@page "{handler?}"
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+@section scripts {
+    <script type="text/javascript">
+        $(function () {
+            $.get('/Index/Incidents').done(function (TasksModels) {
+                $.each(cars, function (i, TasksModel) {
+                    var item = `<li>
+                                <strong>${TasksModel.Priority} ${TasksModel.Name}</strong>
+                                (£${TasksModel.Status})</li>`;
+                    $('#car-list').append(item);
+                });
+            });
+        });
+    </script>
+}
